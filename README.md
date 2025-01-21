@@ -16,7 +16,7 @@ To run **Breathe**, you’ll need to set up your environment and install the nec
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/ThinkerDesigns/breathe.git
+git clone https://github.com/A-Z-OS/breathe.git
 cd breathe
 ```
 
